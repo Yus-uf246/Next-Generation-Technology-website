@@ -1,4 +1,4 @@
-Link to website: 
+Link to website: https://yus-uf246.github.io/Next-Generation-Technology-website 
 
 Next-Generation-Technology-website
 HTML, CSS & Javascript
